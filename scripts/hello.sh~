@@ -1,0 +1,7 @@
+#!/bin/bash
+
+#reading the users name
+read name
+
+#Printing out the name of the user along with the required statement
+echo Hello $(name), I am a BASH script!
